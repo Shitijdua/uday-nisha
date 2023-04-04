@@ -68,12 +68,6 @@ br {
     font-family: 'Alex Brush';
 }
 
-.calendar  {
-
-    width: 1500px;
-    height: 400px;
-    /* margin-top: -500px; */
-}
 
 .calendarrr-div{
     position: absolute; 
@@ -86,10 +80,9 @@ br {
 }
 
 .calendar {
-    max-width: 1000px;
-    width: 95vw;
+    max-width: 800px;
+    width: 90vw;
     height: auto;
-    margin-left: 50px;
 }
 
 .celebrate {

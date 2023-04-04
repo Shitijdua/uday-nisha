@@ -70,7 +70,7 @@ br {
 
 .calendar  {
 
-    width: 1050px;
+    width: 1500px;
     height: 400px;
     /* margin-top: -500px; */
 }
@@ -86,9 +86,10 @@ br {
 }
 
 .calendar {
-    max-width: 800px;
-    width: 80vw;
+    max-width: 1000px;
+    width: 110vw;
     height: auto;
+    margin-left: 50px;
 }
 
 .celebrate {

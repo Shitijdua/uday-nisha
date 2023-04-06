@@ -90,6 +90,8 @@ br {
     font-family: 'Alex Brush';
     font-size: 45px;
     margin-bottom: 20px;
+    color: #BE94E4;
+    font-weight: bold;
 }
 
 .location {
@@ -204,6 +206,7 @@ margin-top: 30px;
 .groom-and-bride {
     font-family: 'Alex Brush';
     font-size: 80px;
+    color: #BE94E4
 }
 
  /*.follow-the-venue {
@@ -237,6 +240,7 @@ div{
 }
 
 .save-the-date {
+    color: #BE94E4;
     margin-left: 5rem;
     margin-right: auto;
     margin-top: 1rem;
@@ -303,6 +307,7 @@ p {
     text-align: center;
     margin-bottom: 30px;
     font-family: 'Alex Brush';
+    color: #BE94E4;
 }
 
 .invite {
@@ -329,7 +334,7 @@ p {
 
 .download-invitation a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 
@@ -431,6 +436,7 @@ path {
     margin-top: 15px;
     margin-bottom: -120px;
     font-size: 45px;
+    color: #BE94E4;
 }
 
 .fa {
@@ -484,7 +490,7 @@ path {
     }
 
     button.download-invitation a {
-        color: black;
+        color: white;
     }
 
 
@@ -495,7 +501,7 @@ path {
 @media (min-width:345px) and (max-width:480px) {
 
     button.download-invitation a {
-        color: black;
+        color: white;
         z-index:1
     }
     
@@ -552,8 +558,10 @@ path {
         font-size: 12px;
         border: none;
         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-        background-color: #FED6D9;
+        background-color: #BE94E4;
     }
+
+    
 
     .couple-img {
         height: 200px;
@@ -670,11 +678,15 @@ path {
         margin-bottom: 20px;
     }
     
+   #circle {
+       background-color: #BE94E4
+    }
     
 
     .save-the-date {
 
         font-size: 50px;
+        color: #BE94E4;
         font-family: 'Alex Brush';
     }
 
@@ -818,6 +830,7 @@ path {
     margin-top: 40px;
     font-size: 35px;
     margin-bottom: -100px;
+    color: #BE94E4;
 }
 
 

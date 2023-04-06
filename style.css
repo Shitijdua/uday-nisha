@@ -383,6 +383,21 @@ width: 30%;
     margin-top: 30px;
 }
 
+.groom-side, .bride-side {
+
+    font-family: 'Abhaya Libre';
+    color: #8D2652;
+    font-size: 30px;
+    display: block;
+    margin-top: 30px;
+
+}
+
+.groom-side a, .bride-side a {
+    text-decoration: none;
+    color: black;
+} 
+
 .mob {
     font-family: 'Abhaya Libre';
     font-size: 35px;
@@ -847,6 +862,11 @@ path {
         border-radius: 50%;
     }
 
+
+    .groom-side, .bride-side {
+        font-size: 31px;
+    }
+
   
 
 }
@@ -891,6 +911,10 @@ path {
         margin-top: 170px;
     }
 
+    .groom-side, .bride-side {
+        font-size: 31px;
+    }
+
     .download-invitation {
         margin-left: 0;
     }
@@ -927,6 +951,11 @@ path {
     .calendarrr{
         width: 90vw;
     }
+
+    .groom-side, .bride-side {
+        font-size: 21px;
+    }
+    
 }
 
 

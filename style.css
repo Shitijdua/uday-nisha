@@ -206,7 +206,6 @@ margin-top: 30px;
 .groom-and-bride {
     font-family: 'Alex Brush';
     font-size: 80px;
-    font-weight: bold;
     color: #BE94E4
 }
 
@@ -242,7 +241,6 @@ div{
 
 .save-the-date {
     color: #BE94E4;
-    font-weight: bold;
     margin-left: 5rem;
     margin-right: auto;
     margin-top: 1rem;
@@ -489,7 +487,7 @@ path {
 
     .groom-and-bride {
         margin-top: 15px;
-        font-weight: bold;
+        
     }
 
     button.download-invitation a {
@@ -659,7 +657,7 @@ path {
 .groom-and-bride {
     font-size: 50px;
     font-family: "Alex Brush";
-    font-weight: bold;
+    
 }
 
 
@@ -690,7 +688,6 @@ path {
     .save-the-date {
 
         font-size: 50px;
-        font-weight: bold;
         color: #BE94E4;
         font-family: 'Alex Brush';
     }

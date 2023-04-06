@@ -78,6 +78,9 @@ br {
 .calendarrr{
     width: 90vw;
 }
+a button {
+    color: black;
+}
 
 .calendar {
     max-width: 800px;
